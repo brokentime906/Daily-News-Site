@@ -1,8 +1,8 @@
 # Daily News Site
 
 React Study , used News API Site https://newsapi.org/    
-version 1 : props + useEffect( func , [category]) query //commit(971d8418dce16fa9198670584e11fb7634745f44)    
-version 2 : React Router by react-router-dom //commit(8ad85d7cdba594db5cd0c1dc0366155d1a11f3a5)    
+  >version 1 : props + useEffect( func , [category]) query //commit(971d8418dce16fa9198670584e11fb7634745f44)    
+  >version 2 : React Router by react-router-dom //commit(8ad85d7cdba594db5cd0c1dc0366155d1a11f3a5)    
     
 ## User Stories
 
